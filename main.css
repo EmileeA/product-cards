@@ -1,5 +1,20 @@
 body {
 
     background-color: lightpink;
+  }
   
+  .card {
+    border: 1px solid grey;
+    margin: 1em;
+    width: 400px;
+  }
+
+  .img{
+      width: 400px;
+      height: 600px;
+  }
+
+  .row{
+    display: flex;
+    flex-direction: row;
   }
