@@ -5,7 +5,7 @@
 Use application to view Flower options with spec. 
 
 ## ScreenShots
-![product card screenshot]()
+![product card screenshot](https://raw.githubusercontent.com/EmileeA/product-cards/master/screenshots/product-cards.png)
 
 ## How to run
 * Clone down this project from [GitHub](https://github.com/emileea/product-cards)
